@@ -111,3 +111,6 @@ UI is fully responsive and matches the provided Figma design.
 ---
 
 Would you like me to write the **Git commands** next (for pushing this whole project to GitHub step-by-step)?
+
+<img width="1440" height="900" alt="Screenshot 2025-11-11 at 4 11 36 PM" src="https://github.com/user-attachments/assets/3a8ca44a-bdcd-4407-8d23-368f424b0aae" />
+
